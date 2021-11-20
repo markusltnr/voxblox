@@ -18,7 +18,7 @@
     <param name="method" value="merged" />
     <param name="max_ray_length_m" value="2.0" />
     <param name="output_mesh_as_pointcloud" value="true" />
-    <!-- param name="publish_pointclouds" value="True" /-->
+    <param name="publish_pointclouds" value="True" />
     <param name="pointcloud_queue_size" value="10000" />
     <param name="enable_icp" value="True" />
     <param name="accumulate_icp_corrections" value="False" /> <!--without that objects are not as clean -->
